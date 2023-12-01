@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  font-family: Arial;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #232d4b;
+  color: #fff;
+  text-align: center;
+  padding: 1px;
+}
+
+section {
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 1em;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  padding: 1em 0;
+  background-color: #e57200;
+  color: #fff;
+}
