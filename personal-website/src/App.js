@@ -17,7 +17,7 @@ function App() {
         title="Projects"
         body={
           <div>
-            <a href="https://miktdc.github.io/miktadc.github.io/">
+            <a href="https://miktdc.github.io/miktadcakmak/">
               Personal Website
             </a>
             <p>(more Projects to be displayed...)</p>
